@@ -29,7 +29,7 @@
 
   10%, 50% {
     opacity: 1;
-    transform: translateX(217px);
+    transform: translateX(222px);
   }
 }
 
@@ -40,7 +40,7 @@
 
   10%, 50% {
     opacity: 1;
-    transform: translateX(217px);
+    transform: translateX(322px);
   }
 }
 
@@ -51,7 +51,7 @@
 
   10%, 50% {
     opacity: 1;
-    transform: translateX(217px);
+    transform: translateX(322px);
   }
 }
 
@@ -72,7 +72,7 @@
 
   10%, 50% {
     opacity: 1;
-    transform: translateX(218px);
+    transform: translateX(225px);
   }
 }
 
@@ -83,7 +83,7 @@
 
   10%, 50% {
     opacity: 1;
-    transform: translateX(318px);
+    transform: translateX(325px);
   }
 }
 
@@ -94,7 +94,7 @@
 
   10%, 50% {
     opacity: 1;
-    transform: translateX(218px);
+    transform: translateX(225px);
   }
 }
 
@@ -121,25 +121,13 @@
 }
 
 
-.main__r-ellipse {
-  position: absolute;
-  width: 45px;
-  height: 41px;
-  left: 265px;
-  top: 243px;
-  background-image: url(./r-ellipse.svg);
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-  opacity: 0;
-}
 
 .main__l-ellipse {
   position: absolute;
-  width: 85px;
-  height: 46px;
-  left: 163px;
-  top: 240px;
+  width: 67px;
+  height: 41px;
+  left: 240px;
+  top: 335px;
   background-image: url(./l-ellipse.svg);
   background-position: center;
   background-size: cover;
@@ -156,10 +144,10 @@
   margin: 0;
   padding: 0;
   position: absolute;
-  width: 75px;
+  width: 161px;
   height: 24px;
   left: -200px;
-  top: 389px;
+  top: 431px;
   animation: main-txt 8s infinite ease;
   animation-fill-mode: forwards;
 }
@@ -168,10 +156,10 @@
   margin: 0;
   padding: 0;
   position: absolute;
-  width: 93px;
-  height: 24px;
-  left: -200px;
-  top: 413px;
+  width: 170px;
+  height: 20px;
+  left: -300px;
+  top: 467px;
   animation: main-txt2 8s infinite ease;
   animation-delay: .5s;
   animation-fill-mode: forwards;
@@ -181,12 +169,12 @@
   margin: 0;
   padding: 0;
   position: absolute;
-  width: 171px;
-  height: 24px;
-  left: -200px;
-  top: 437px;
+  width: 210px;
+  height: 20px;
+  left: -300px;
+  top: 487px;
   animation: main-txt3 8s infinite ease;
-  animation-delay: 1s;
+  animation-delay: .8s;
   animation-fill-mode: forwards;
 }
 
